@@ -1,4 +1,6 @@
 # Project-Blast-Galaxy
+## Bedrijf Naam:
+Death Star Diner
 
 ##  Made By:
 Marcos Martins Carvalho | Yati Petersen | Emiel Plokker | Aiden Jones | Li Hong
