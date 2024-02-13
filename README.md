@@ -1,7 +1,7 @@
 # Project-Blast-Galaxy
 
 ##  Made By:
-Marcos Martins Carvalho | Yati Petersen | Emiel Plokker | Li Hong
+Marcos Martins Carvalho | Yati Petersen | Emiel Plokker | Aiden Jones | Li Hong
 ## 📦 Inhoud
 * Kenmerken
 * Bronnen
